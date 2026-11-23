@@ -7,6 +7,7 @@ let max=arr[0]
 //     }
 // }
 //  console.log(`Max element ${max}`)
+//TimeComplexity O(n),SpaceComplexity O(1)
 
 function maxValue(arr){
 for(i=1;i<=arr.length;i++){
